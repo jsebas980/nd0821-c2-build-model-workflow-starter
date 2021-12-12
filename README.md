@@ -40,6 +40,8 @@ repository that is under your control. Now clone the repository locally so you c
 ```
 git clone https://github.com/[your github username]/nd0821-c2-build-model-workflow-starter.git
 ```
+git hub url:https://github.com/jsebas980/nd0821-c2-build-model-workflow-starter
+W&B url:https://wandb.ai/jsebas980/nyc_airbnb?workspace=user-jsebas980
 
 and go into the repository:
 
